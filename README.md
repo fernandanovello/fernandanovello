@@ -2,13 +2,13 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=1099&pause=1099&color=0489B1C&width=500&height=80&lines=Welcome+to+my+GitHub+%3A)" alt="Typing SVG" /></a>
 
-### 📈 Estatísticas
+<!-- ### 📈 Estatísticas
 
  <div>
   <a href="https://github.com/fernandanovello">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandanovello&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
- 
+ -->
 ### ⚡ Tecnologias
 <div style="display: inline_block">
   <img align="center" alt="-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
